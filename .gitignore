@@ -1,0 +1,5 @@
+# Access files
+auth.php
+
+# Third-party code
+vendor/
