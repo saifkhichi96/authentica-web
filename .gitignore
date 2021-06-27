@@ -44,4 +44,5 @@ Thumbs.db
 /js/coverage/
 /node_modules/
 
+build/
 auth.php
